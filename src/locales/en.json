@@ -1,0 +1,12 @@
+{
+  "message": "hello i18n !!",
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "foot": {
+    "createBy": "Create by"
+  },
+  "name": "Depoorter Franck"
+}

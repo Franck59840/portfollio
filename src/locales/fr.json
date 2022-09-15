@@ -1,0 +1,14 @@
+{
+    "message": "Bonjour i18n !!",
+    "nav": {
+        "about": "A propos de moi",
+        "projects": "Projets",
+        "contact": "Contact"
+      },
+      "foot": {
+        "createBy": "Créer par"
+        
+      },
+      "name": "Depoorter Franck"
+    
+  }

@@ -1,7 +1,7 @@
 <template>
   <v-footer padless>
     <v-card
-      color="#D6EAF8"
+      color="#E7F9FF"
       flat
       tile
       class="py-5 px-5 text-center"
@@ -26,7 +26,7 @@
           <v-card-text class="pt-4">
             <v-icon color="#A7121D">mdi-heart</v-icon>
 
-            Created by Depoorter Franck
+            {{ $t("foot.createBy") }} {{ $t("name") }}
           </v-card-text>
         </v-col>
       </v-row>
