@@ -1,7 +1,6 @@
 <template>
   <v-app>
     <v-container fluid>
-      <p>{{ $t("message") }}</p>
       <v-row>
         <v-col cols="6"></v-col>
         <v-img

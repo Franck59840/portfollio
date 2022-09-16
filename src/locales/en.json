@@ -1,5 +1,4 @@
 {
-  "message": "hello i18n !!",
   "nav": {
     "about": "About",
     "projects": "Projects",
@@ -8,5 +7,6 @@
   "foot": {
     "createBy": "Create by"
   },
-  "name": "Depoorter Franck"
+  "name": "Depoorter Franck",
+  "aboutpage": "This is an about page"
 }
