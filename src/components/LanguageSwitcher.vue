@@ -1,7 +1,7 @@
 <template>
   <v-menu offset-y class="list">
     <template v-slot:activator="{ on, attrs }">
-      <v-btn plain v-bind="attrs" v-on="on">
+      <v-btn plain width="10px" height="20px " v-bind="attrs" v-on="on">
         <span>{{ $i18n.locale.toUpperCase() }}</span>
       </v-btn>
     </template>
