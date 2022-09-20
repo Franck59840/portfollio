@@ -1,13 +1,23 @@
 {
-    "nav": {
-        "about": "A propos de moi",
-        "projects": "Projets",
-        "contact": "Contact"
-      },
-      "foot": {
-        "createBy": "Créer par"
-        
-      },
-      "name": "Depoorter Franck",
-      "aboutpage": "C'est la page à propos de moi"
-  }
+"nav": {
+    "about": "A propos de moi",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "foot": {
+    "createBy": "Créer par"
+    
+  },
+  "describe": {
+    "name": "Depoorter Franck",
+    "profil":"Développeur full-stack",
+    "mail":"depoorter.franck@gmail.com,",
+    "mobile":"+33 6 58 71 71 95",
+    "adress": "29 rue de la Pannerie, 59840 Pérenchies, France"
+  },
+  "aboutme": {
+    "about":"A propos de moi",
+    "about1": "Curieux, perséverant et autonome, ancien médiateur social , j’ai eu la chance d’exercer differents aspect de la mediation . Ce qui m’a permit d’acquerir des différents compétence au fil des années mais surtout des valeurs humaine. Après 15 ans , j'ai décidé de me reconvertir en tant que developpeur web.",
+    "dev": "Apres plusieurs diplomes dans le social ,lors de mon choix de reconversion , j’ai choisi la Wild Code School de Lille , labellisée Grande Ecole du Numérique, qui utilise une pédagogie inverséee et permet de travailler sur differents projets (dont un vrai client) au sein de différents équipes en méthodologie agile (SCRUM). C’est une formation intensive de 5 et 3 mois où on mise sur l’entraide, la recherche et le dévellopement de l’autonomie de chacun."
+  } 
+}

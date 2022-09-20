@@ -1,18 +1,12 @@
 <template>
   <v-app-bar app color="#E7F9FF" white flat class="px-8">
     <router-link to="/">
-      <v-btn class="test" text>
-        {{ $t("name") }}
+      <v-btn text>
+        {{ $t("describe.name") }}
         <!-- <v-icon color="#A71210">fas fa-dragon</v-icon> -->
       </v-btn>
     </router-link>
     <v-spacer></v-spacer>
-
-    <router-link :to="`/${$i18n.locale}/about`">
-      <v-btn text @click="scroll('about')"
-        >{{ $t("nav.about") }}
-      </v-btn></router-link
-    >
     <router-link :to="`/${$i18n.locale}/project`">
       <v-btn text @click="scroll('project')">{{ $t("nav.projects") }}</v-btn>
     </router-link>

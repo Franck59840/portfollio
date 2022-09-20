@@ -26,7 +26,7 @@
           <v-card-text class="pt-4">
             <v-icon color="#A7121D">mdi-heart</v-icon>
 
-            {{ $t("foot.createBy") }} {{ $t("name") }}
+            {{ $t("foot.createBy") }} {{ $t("describe.name") }}
           </v-card-text>
         </v-col>
       </v-row>

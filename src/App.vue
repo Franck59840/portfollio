@@ -19,3 +19,4 @@ export default {
   components: { NavBar, FooTer },
 };
 </script>
+<style scoped></style>

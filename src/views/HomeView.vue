@@ -1,19 +1,21 @@
 <template>
-  <v-app>
-    <v-container fluid>
-      <v-row>
-        <v-col cols="6"></v-col>
-        <v-img
-          :src="require('../assets/profil.jpg')"
-          contain
-          max-height="500"
-        />
-      </v-row>
-    </v-container>
-  </v-app>
+  <v-container ma-0 pa-0>
+    <div>
+      <ProfilMe />
+      <AboutMe />
+      <LabelTech class="label" />
+    </div>
+  </v-container>
 </template>
 <script>
-export default {};
+import ProfilMe from "@/components/ProfilMe.vue";
+import AboutMe from "@/components/AboutMe.vue";
+import LabelTech from "../components/LabelTech.vue";
+export default { components: { ProfilMe, AboutMe, LabelTech } };
 </script>
 
-<style></style>
+<style>
+.label {
+  margin-top: 100px;
+}
+</style>
