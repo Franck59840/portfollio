@@ -7,8 +7,9 @@
       </v-col>
       <v-col>
         <h2>{{ $t("aboutme.about") }}</h2>
-        <p>{{ $t("aboutme.about1") }}</p>
-        <p>{{ $t("aboutme.dev") }}</p>
+        <p class="text-justify">{{ $t("aboutme.about1") }}</p>
+        <h2 class="colorT">{{ $t("aboutme.webDev") }}</h2>
+        <p class="text-justify">{{ $t("aboutme.dev") }}</p>
       </v-col>
     </v-row>
   </v-container>
@@ -21,5 +22,8 @@ export default {};
 <style>
 .picture {
   margin-left: 100px;
+}
+.colorT {
+  color: #677494;
 }
 </style>

@@ -23,6 +23,27 @@
           <v-icon class="mr-2">mdi-24px mdi-map-marker-radius</v-icon
           >{{ $t("describe.address") }}
         </div>
+        <div class="white--text pt-2">
+          <v-btn href="https://github.com/Franck59840" icon target="_blank">
+            <v-icon> fa-brands fa-github</v-icon>
+          </v-btn>
+          <v-btn
+            class="ml-2"
+            href="https://www.linkedin.com/in/franck-depoorter/"
+            icon
+            target="_blank"
+          >
+            <v-icon> fa-brands fa-linkedin-in</v-icon>
+          </v-btn>
+          <v-btn
+            class="ml-2"
+            href="https://twitter.com/masaiyugi"
+            icon
+            target="_blank"
+          >
+            <v-icon> fa-brands fa-twitter</v-icon>
+          </v-btn>
+        </div>
       </div>
     </v-row>
   </v-container>
@@ -46,7 +67,6 @@ export default {};
   margin-top: 170px;
   background-image: linear-gradient(45deg, #e7f9ff, #e7f9ff);
   transform: skewY(-5deg);
-  /* border: solid 1px yellowgreen; */
 }
 .content {
   max-width: 100%;
@@ -67,5 +87,8 @@ li {
 .col2 {
   margin-top: 0;
   margin-left: 80px;
+}
+.name {
+  color: #677494;
 }
 </style>

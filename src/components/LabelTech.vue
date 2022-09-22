@@ -1,22 +1,57 @@
 /
 <template>
   <v-container>
-    <v-flex class="ml-2 d-flex flex-row">
-      <h4 class="test ml-4">react</h4>
-      <h4 class="test">react</h4>
-      <h4 class="test">react</h4>
-      <h4 class="test">react</h4>
-    </v-flex>
+    <v-btn
+      v-for="label in labels"
+      :key="label.id"
+      elevation="2"
+      class="mt-2 ml-2 test rounded-lg"
+    >
+      {{ label }}
+    </v-btn>
   </v-container>
 </template>
 
 <script>
-export default {};
+export default {
+  data: () => ({
+    model: 0,
+    labels: [
+      "HTML5",
+      "CSS3",
+      "Javascript",
+      "React",
+      "Node JS",
+      "PHP",
+      "Symfony",
+      "MySQL",
+      "GIT",
+      "Github",
+      "SCRUM",
+      "Formation",
+      "Product Owner",
+      "Gestion de projet",
+      "Esprit d'équipe",
+      "Communication",
+      "Organisation",
+      "Apprendre",
+      "Autonomie",
+      "Linux",
+      "No Code",
+      "Bubble",
+      "Figma",
+      "Notion",
+      "Zappier",
+      "Webflow",
+      "Airtable",
+    ],
+  }),
+};
 </script>
 
 <style>
 .test {
-  border: solid 1px blue;
-  padding: 5px;
+  border: solid 2px #677494;
+  color: white;
 }
 </style>
