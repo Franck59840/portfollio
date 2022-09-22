@@ -9,13 +9,15 @@
     },
   "describe": {
     "name": "Depoorter Franck",
-    "profil":"Développeur full-stack",
-    "mail":"depoorter.franck@gmail.com,",
+    "profil":"Full stack developer",
+    "mail":"depoorter.franck@gmail.com",
     "mobile":"+33 6 58 71 71 95",
-    "adress": "29 rue de la Pannerie, 59840 Pérenchies, France"
+    "address": "29 rue de la Pannerie, 59840 Pérenchies, France"
     },
   "aboutme": {
+    "about":"About",
     "about1": "Curious, persevering and autonomous, former social mediator, I had the chance to practice different aspects of mediation. This allowed me to acquire different skills over the years but above all human values. After 15 years, I decided to reconvert myself as a web developer.",
+    "webDev":"The web development",
     "dev": "After several diplomas in the social field, when I chose to retrain, I chose the Wild Code School in Lille, labeled Grande Ecole du Numérique, which uses reverse pedagogy and allows me to work on different projects (including a real client) at the within different teams in agile methodology (SCRUM). It is an intensive 5 and 3 month training where we focus on mutual aid, research and the development of each person's autonomy."
     } 
 }

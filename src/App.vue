@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <NavBar />
+    <NavBar class="test" />
     <v-main>
       <router-view />
     </v-main>
@@ -19,4 +19,8 @@ export default {
   components: { NavBar, FooTer },
 };
 </script>
-<style scoped></style>
+<style scoped>
+.test {
+  z-index: 15;
+}
+</style>

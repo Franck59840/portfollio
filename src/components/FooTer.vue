@@ -1,5 +1,5 @@
 <template>
-  <v-footer padless>
+  <v-footer padless fixed>
     <v-card
       color="#E7F9FF"
       flat
