@@ -20,5 +20,37 @@
     "about1": "Curieux, perséverant et autonome, ancien médiateur social , j’ai eu la chance d’exercer differents aspect de la mediation . Ce qui m’a permit d’acquerir des différents compétence au fil des années mais surtout des valeurs humaine. Après 15 ans , j'ai décidé de me reconvertir en tant que developpeur web.",
     "webDev":"Le développement web",
     "dev": "Apres plusieurs diplomes dans le social ,lors de mon choix de reconversion , j’ai choisi la Wild Code School de Lille , labellisée Grande Ecole du Numérique, qui utilise une pédagogie inverséee et permet de travailler sur differents projets (dont un vrai client) au sein de différents équipes en méthodologie agile (SCRUM). C’est une formation intensive de 5 et 3 mois où on mise sur l’entraide, la recherche et le dévellopement de l’autonomie de chacun."
-  } 
+  },
+  "label": {
+    "html":"HTML5",
+    "css":"css3",
+    "js":"Javascript",
+    "react":"React",
+    "node":"Node JS",
+    "php":"PHP",
+    "symfony":"Symfony",
+    "crud":"CRUD",
+    "mysql":"MySQL",
+    "git":"GIT",
+    "github":"Github",
+    "scrum":"SCRUM",
+    "formation":"Formation",
+    "po":"Product Owner",
+    "project":"Gestion de projet",
+    "teamspirit":"Esprit d'équipe",
+    "teamwork": "Travail d'équipe",
+    "communication":"Communication",
+    "organisation":"Organisation",
+    "learn":"Apprendre",
+    "independance":"Autonomie",
+    "vscode": "vscode",
+    "linux":"Linux",
+    "nocode":"No Code",
+    "bubble":"Bubble",
+    "figma":"Figma",
+    "notion":"Notion",
+    "zappier":"Zappier",
+    "webflow":"Webflow",
+    "airtable":"Airtable"
+  }
 }

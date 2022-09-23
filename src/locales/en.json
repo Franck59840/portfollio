@@ -19,5 +19,37 @@
     "about1": "Curious, persevering and autonomous, former social mediator, I had the chance to practice different aspects of mediation. This allowed me to acquire different skills over the years but above all human values. After 15 years, I decided to reconvert myself as a web developer.",
     "webDev":"The web development",
     "dev": "After several diplomas in the social field, when I chose to retrain, I chose the Wild Code School in Lille, labeled Grande Ecole du Numérique, which uses reverse pedagogy and allows me to work on different projects (including a real client) at the within different teams in agile methodology (SCRUM). It is an intensive 5 and 3 month training where we focus on mutual aid, research and the development of each person's autonomy."
-    } 
+    } ,
+    "label": {
+      "html":"HTML5",
+      "css":"css3",
+      "js":"Javascript",
+      "react":"React",
+      "node":"Node JS",
+      "php":"PHP",
+      "symfony":"Symfony",
+      "mysql":"MySQL",
+      "git":"GIT",
+      "github":"Github",
+      "scrum":"SCRUM",
+      "crud":"CRUD",
+      "formation":"Formation",
+      "po":"Product Owner",
+      "project":"Project management",
+      "teamspirit":"Team spirit",
+      "teamwork": "Team work",
+      "communication":"Communication",
+      "organisation":"Organisation",
+      "learn":"Learn",
+      "independance":"independance",
+      "vscode": "vscode",
+      "linux":"Linux",
+      "nocode":"No Code",
+      "bubble":"Bubble",
+      "figma":"Figma",
+      "notion":"Notion",
+      "zappier":"Zappier",
+      "webflow":"Webflow",
+      "airtable":"Airtable"
+    }
 }
