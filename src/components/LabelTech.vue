@@ -6,7 +6,7 @@
         v-for="label in labels"
         :key="label.id"
         elevation="2"
-        class="mt-2 ml-2 test rounded-lg"
+        class="mt-4 ml-4 rounded-lg"
       >
         {{ $t(label.translateId) }}
       </v-btn>
