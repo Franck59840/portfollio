@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <NavBar class="test" />
+    <NavBar class="nav" />
     <v-main>
       <router-view />
     </v-main>
@@ -13,14 +13,12 @@ import NavBar from "./components/NavBar.vue";
 import FooTer from "./components/FooTer.vue";
 export default {
   name: "App",
-  data: () => ({
-    //
-  }),
+  data: () => ({}),
   components: { NavBar, FooTer },
 };
 </script>
 <style scoped>
-.test {
+.nav {
   z-index: 15;
 }
 </style>

@@ -6,7 +6,7 @@
         <v-img :src="require('../assets/about.svg')" contain />
       </v-col>
       <v-col class="col2">
-        <h2>{{ $t("aboutme.about") }}</h2>
+        <h2 class="mb-4">{{ $t("aboutme.about") }}</h2>
         <p class="text-justify test">{{ $t("aboutme.about1") }}</p>
         <h2 class="colorT mt-4">{{ $t("aboutme.webDev") }}</h2>
         <p class="text-justify test">{{ $t("aboutme.dev") }}</p>

@@ -1,17 +1,19 @@
 <template>
-  <v-container ma-0 pa-0>
-    <div>
+  <v-container>
+    <v-flex class="justify-center">
       <ProfilMe />
       <AboutMe />
       <LabelTech class="label" />
-    </div>
+      <SkillsMe />
+    </v-flex>
   </v-container>
 </template>
 <script>
 import ProfilMe from "@/components/ProfilMe.vue";
 import AboutMe from "@/components/AboutMe.vue";
 import LabelTech from "../components/LabelTech.vue";
-export default { components: { ProfilMe, AboutMe, LabelTech } };
+import SkillsMe from "../components/SkillsMe.vue";
+export default { components: { ProfilMe, AboutMe, LabelTech, SkillsMe } };
 </script>
 
 <style>

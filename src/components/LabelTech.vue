@@ -1,7 +1,7 @@
 /
 <template>
-  <v-container>
-    <div class="d-flex flex-wrap">
+  <v-container class="test">
+    <d-flex>
       <v-btn
         v-for="label in labels"
         :key="label.id"
@@ -10,6 +10,9 @@
       >
         {{ $t(label.translateId) }}
       </v-btn>
+    </d-flex>
+    <div class="mt-8 d-flex justify-center">
+      <v-btn>Download CV</v-btn>
     </div>
   </v-container>
 </template>
@@ -114,4 +117,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+.test {
+  width: 80%;
+}
+</style>

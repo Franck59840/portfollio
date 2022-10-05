@@ -85,7 +85,7 @@ li {
   margin-right: 50px;
 }
 .col2 {
-  margin-top: 0;
+  margin-bottom: 100px;
   margin-left: 80px;
 }
 .name {

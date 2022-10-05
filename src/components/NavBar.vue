@@ -1,9 +1,8 @@
 <template>
-  <v-app-bar app color="#E7F9FF" white flat class="px-8">
+  <v-app-bar app color="#E7F9FF" white flat class="px-8 navbar">
     <router-link to="/">
       <v-btn text>
         {{ $t("describe.name") }}
-        <!-- <v-icon color="#A71210">fas fa-dragon</v-icon> -->
       </v-btn>
     </router-link>
     <v-spacer></v-spacer>
@@ -31,6 +30,10 @@ export default {
 </script>
 
 <style>
+.navbar {
+  width: 100w;
+}
+
 a,
 li {
   text-decoration: none;
