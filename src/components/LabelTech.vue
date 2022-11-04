@@ -1,6 +1,6 @@
 /
 <template>
-  <v-container class="test">
+  <v-container class="containerLabel">
     <d-flex>
       <v-btn
         v-for="label in labels"
@@ -35,10 +35,19 @@ export default {
         translateId: "label.react",
       },
       {
+        translateId: "label.vue",
+      },
+      {
         translateId: "label.node",
       },
       {
+        translateId: "label.express",
+      },
+      {
         translateId: "label.php",
+      },
+      {
+        translateId: "label.twig",
       },
       {
         translateId: "label.symfony",
@@ -118,7 +127,10 @@ export default {
 </script>
 
 <style>
-.test {
+.containerLabel {
   width: 80%;
+}
+.test1:hover {
+  background: green;
 }
 </style>
