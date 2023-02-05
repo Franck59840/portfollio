@@ -1,10 +1,10 @@
 <template>
   <v-container class="d-flex">
     <v-row class="d-flex justify-center">
-      <div class="d-flex justify-center align-center">
+      <div class="d-flex justify-center align-center mt-8">
         <v-img class="profil" :src="require('../assets/profil.jpg')" contain />
       </div>
-      <div class="d-flex flex-column justify-center col2">
+      <div class="d-flex flex-column justify-center col2 mt-16">
         <div class="display-2 font-weight-medium font-weight name">
           {{ $t("describe.name") }}
         </div>
