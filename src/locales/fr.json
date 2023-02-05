@@ -6,7 +6,6 @@
   },
   "foot": {
     "createBy": "Créer par"
-    
   },
   "describe": {
     "name": "Depoorter Franck",
@@ -26,7 +25,7 @@
     "css":"CSS 3",
     "js":"Javascript",
     "react":"React",
-    "vue":"Vue",
+    "vue":"Vue Js",
     "node":"Node JS",
     "express":"Express",
     "php":"PHP",
@@ -35,6 +34,8 @@
     "crud":"CRUD",
     "mysql":"MySQL",
     "git":"GIT",
+    "vuetify":"Vuetify",
+    "tailwind":"Tailwind",
     "github":"Github",
     "scrum":"SCRUM",
     "formation":"Formation",
@@ -61,7 +62,7 @@
       "css":"CSS 3",
       "js":"Javascript",
       "react":"React",
-      "vue":"Vue",
+      "vue":"Vue JS",
       "node":"Node JS",
       "express":"Express",
       "php":"PHP",
@@ -77,5 +78,18 @@
       "describeHtml":"Utilisation de la dernière version du langage HTML pour la construction de web app, app, site internet, le tout associé aux langages CSS et Javascript.",
       "describeCss":"Utilisation de la dernière version du langage CSS pour la construction de web app, app, site internet, le tout associé aux langages HTML et Javascript.",
       "describeJs":"Utilisation de la dernière version standardisé ES12 avec React, node.js ou seul pour la construction de web app, app, site internet, le tout associé aux langages HTML et CSS."
+  },
+  "button": {
+    "closed":"Fermer",
+    "more":"En savoir plus",
+    "contact":"Contactez moi",
+    "download":"Télécharger mon CV",
+    "screenshot":"Capture d'écran"
+  },
+  "project1": {
+      "title": "Vinoteam",
+      "detail": "Un site de partage de commande sur le vin, afin d'avoir le meillieur vin au meillieur prix grâce à communauté Vinoteam",
+      "date": "2022"
+
   }
 }
