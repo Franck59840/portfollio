@@ -79,6 +79,9 @@ export default {
         translateId: "label.scrum",
       },
       {
+        translateId: "label.leaflet",
+      },
+      {
         translateId: "label.formation",
       },
       {

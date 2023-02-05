@@ -25,6 +25,7 @@
       "css":"CSS 3",
       "js":"Javascript",
       "react":"React",
+      "reactAdmin":"React Admin",
       "vue":"Vue JS",
       "node":"Node JS",
       "express":"Express",
@@ -33,8 +34,11 @@
       "symfony":"Symfony",
       "mysql":"MySQL",
       "git":"GIT",
+      "api": "API",
+      "nodeMailer":"Node Mailer",
       "vuetify":"Vuetify",
       "tailwind":"Tailwind",
+      "leaflet":"Leaflet",
       "github":"Github",
       "scrum":"SCRUM",
       "crud":"CRUD",
@@ -83,13 +87,51 @@
       "closed":"Closed",
       "more":"More",
       "contact":"Contact",
-      "download":"Download",
+      "download":"Download resume",
       "screenshot":"Screenshot"
     },
     "project1": {
-      "title": "Vinoteam",
-      "detail": "A wine order sharing site, in order to have the best wine at the best price thanks to the Vinoteam community",
-      "date": "2022"
-  }
-
+      "title": "Goodealmaps",
+      "describe": "End of training project of 3 months, a site grouping the sharing of good plan on France",
+      "date": "2022",
+      "homepage": "Home page",
+      "login": "Login",
+      "details": "details of a deal",
+      "add": "Add a deal",
+      "list": "List of deals by region"
+    },
+    "project2": {
+        "title": "Vinoteam",
+        "describe": "A wine order sharing site, in order to have the best wine at the best price thanks to the Vinoteam community",
+        "date": "2022",
+        "homepage": "Home page",
+        "dashboard": "Dashboard",
+        "details": "Détails",
+        "list": "List",
+        "map": "Map",
+        "search": "Search"
+    },
+    "project3": {
+        "title": "Everetrofit => Weenav",
+        "describe": "5-month end-of-training project, a retrofit site that allows the transformation of a thermal vehicle into an electric vehicle",
+        "date": "2021-2022",
+        "homepage": "Home page",
+        "about": "About",
+        "contact": "Contact",
+        "gallery": "Gallery",
+        "team": "Team",
+        "details": "Détails",
+        "list": "List"
+    },
+    "project4": {
+      "title": "Wild-Heroes",
+      "describe": "Training project 2, a site on super heroes with the use of API",
+      "date": "2021",
+      "homepage": "Home page",
+      "details": "List of superhero cards",
+      "article": "Article on the news of superheroes",
+      "rules": "Rules of the game",
+      "more": "Details of articles on superheroes"
+  
+    }
 }
