@@ -5,7 +5,6 @@
       <AboutMe />
       <LabelTech class="label" />
       <SkillsMe />
-      <Projects />
     </div>
   </v-container>
 </template>
@@ -14,9 +13,8 @@ import ProfilMe from "@/components/ProfilMe.vue";
 import AboutMe from "@/components/AboutMe.vue";
 import LabelTech from "../components/LabelTech.vue";
 import SkillsMe from "../components/SkillsMe.vue";
-import Projects from "../components/ProjectsMe.vue";
 export default {
-  components: { ProfilMe, AboutMe, LabelTech, SkillsMe, Projects },
+  components: { ProfilMe, AboutMe, LabelTech, SkillsMe },
 };
 </script>
 
