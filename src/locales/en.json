@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+    },
+  "foot": {
+    "createBy": "Created by "   
+    },
+  "describe": {
+    "name": "Depoorter Franck",
+    "profil":"Full stack developer",
+    "mail":"depoorter.franck@gmail.com",
+    "mobile":"+33 6 58 71 71 95",
+    "address": "29 rue de la Pannerie, 59840 Pérenchies, France"
+    },
+  "aboutme": {
+    "about":"About",
+    "about1": "Curious, persevering and autonomous, former social mediator, I had the chance to practice different aspects of mediation. This allowed me to acquire different skills over the years but above all human values. After 15 years, I decided to reconvert myself as a web developer.",
+    "webDev":"The web development",
+    "dev": "After several diplomas in the social field, when I chose to retrain, I chose the Wild Code School in Lille, labeled Grande Ecole du Numérique, which uses reverse pedagogy and allows me to work on different projects (including a real client) at the within different teams in agile methodology (SCRUM). It is an intensive 5 and 3 month training where we focus on mutual aid, research and the development of each person's autonomy."
+    } ,
+    "label": {
+      "html":"HTML 5",
+      "css":"CSS 3",
+      "js":"Javascript",
+      "react":"React",
+      "vue":"Vue JS",
+      "node":"Node JS",
+      "express":"Express",
+      "php":"PHP",
+      "twig":"Twig",
+      "symfony":"Symfony",
+      "mysql":"MySQL",
+      "git":"GIT",
+      "vuetify":"Vuetify",
+      "tailwind":"Tailwind",
+      "github":"Github",
+      "scrum":"SCRUM",
+      "crud":"CRUD",
+      "formation":"Formation",
+      "po":"Product Owner",
+      "project":"Project management",
+      "teamspirit":"Team spirit",
+      "teamwork": "Team work",
+      "communication":"Communication",
+      "organisation":"Organisation",
+      "learn":"Learn",
+      "independance":"independance",
+      "vscode": "vscode",
+      "linux":"Linux",
+      "nocode":"No Code",
+      "bubble":"Bubble",
+      "figma":"Figma",
+      "notion":"Notion",
+      "zappier":"Zappier",
+      "webflow":"Webflow",
+      "airtable":"Airtable"
+    },
+    "card": {
+      "html":"HTML 5",
+      "css":"CSS 3",
+      "js":"Javascript",
+      "react":"React",
+      "vue":"Vue JS",
+      "node":"Node JS",
+      "express":"Express",
+      "php":"PHP",
+      "symfony":"Symfony",
+      "crud":"CRUD",
+      "mysql":"MySQL",
+      "describeReact":"Use of the React library for the front-end part. React is a technology for developing web applications or web sites",
+      "describeVue":"Use of the Vue library (scalable framework) for the front-end part. Facilitate integration with other libraries or existing projects",
+      "describePhp":"PHP is one of the most used languages ​​to create dynamic web pages. It allows to display data dynamically, to process forms or to connect to a database.", 
+      "describeSymfony":"Symfony is a powerful PHP Framework developed by Sensiolabs, a French company. It is an open source full-stack MVC (Model-View-Controller) application very useful for the development of scalable and very secure Web applications",
+      "describeNode":"Use of the free software platform Node.js for the back-end part. Added to this the Express framework to improve productivity.",
+      "describeMysql":"Use of SQL language for the exploitation of databases. DB-Eaver database management.",
+      "describeHtml":"Use of the latest version of HTML language for the construction of web app, app, website, all associated with CSS and Javascript languages.",
+      "describeCss":"Use of the latest version of the CSS language for the construction of web app, app, website, all associated with HTML and Javascript languages.",
+      "describeJs":"Use of the latest standardized version ES12 with React, node.js or alone for the construction of web app, app, website, all associated with HTML and CSS languages."
+    },
+    "button": {
+      "closed":"Closed",
+      "more":"More",
+      "contact":"Contact",
+      "download":"Download",
+      "screenshot":"Screenshot"
+    },
+    "project1": {
+      "title": "Vinoteam",
+      "detail": "A wine order sharing site, in order to have the best wine at the best price thanks to the Vinoteam community",
+      "date": "2022"
+  }
+
+}

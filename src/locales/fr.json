@@ -1,0 +1,95 @@
+{
+"nav": {
+    "about": "A propos de moi",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "foot": {
+    "createBy": "Créer par"
+  },
+  "describe": {
+    "name": "Depoorter Franck",
+    "profil":"Développeur full stack",
+    "mail":"depoorter.franck@gmail.com",
+    "mobile":"+33 6 58 71 71 95",
+    "address": "29 rue de la Pannerie, 59840 Pérenchies, France"
+  },
+  "aboutme": {
+    "about":"A propos",
+    "about1": "Curieux, perséverant et autonome, ancien médiateur social , j’ai eu la chance d’exercer differents aspect de la mediation . Ce qui m’a permit d’acquerir des différents compétence au fil des années mais surtout des valeurs humaine. Après 15 ans , j'ai décidé de me reconvertir en tant que developpeur web.",
+    "webDev":"Le développement web",
+    "dev": "Apres plusieurs diplomes dans le social ,lors de mon choix de reconversion , j’ai choisi la Wild Code School de Lille, labellisée Grande Ecole du Numérique, qui utilise une pédagogie inverséee et permet de travailler sur differents projets (dont un vrai client) au sein de différents équipes en méthodologie agile (SCRUM). C’est une formation intensive de 5 mois pour la formation React et 3 mois pour celle de PHP/Symfony où on mise sur l’entraide, la recherche et le développement de l’autonomie de chacun."
+  },
+  "label": {
+    "html":"HTML 5",
+    "css":"CSS 3",
+    "js":"Javascript",
+    "react":"React",
+    "vue":"Vue Js",
+    "node":"Node JS",
+    "express":"Express",
+    "php":"PHP",
+    "twig":"Twig",
+    "symfony":"Symfony",
+    "crud":"CRUD",
+    "mysql":"MySQL",
+    "git":"GIT",
+    "vuetify":"Vuetify",
+    "tailwind":"Tailwind",
+    "github":"Github",
+    "scrum":"SCRUM",
+    "formation":"Formation",
+    "po":"Product Owner",
+    "project":"Gestion de projet",
+    "teamspirit":"Esprit d'équipe",
+    "teamwork": "Travail d'équipe",
+    "communication":"Communication",
+    "organisation":"Organisation",
+    "learn":"Apprendre",
+    "independance":"Autonomie",
+    "vscode": "vscode",
+    "linux":"Linux",
+    "nocode":"No Code",
+    "bubble":"Bubble",
+    "figma":"Figma",
+    "notion":"Notion",
+    "zappier":"Zappier",
+    "webflow":"Webflow",
+    "airtable":"Airtable"
+  },
+  "card": {
+      "html":"HTML 5",
+      "css":"CSS 3",
+      "js":"Javascript",
+      "react":"React",
+      "vue":"Vue JS",
+      "node":"Node JS",
+      "express":"Express",
+      "php":"PHP",
+      "symfony":"Symfony",
+      "crud":"CRUD",
+      "mysql":"MySQL",
+      "describeReact":"Utilisation de la librairie React pour la partie front-end.React est une technologie pour le developpement d'application web ou de site",
+      "describeVue":"Utilisation de la librairie Vue (framework évolutif) pour la partie front-end.Faciliter d'intégration à d'autre bibliothèque ou de projets existants",
+      "describePhp":"PHP est un des langages les plus utilisés pour créer des pages web dynamiques. Il permet d'afficher des données dynamiquement, de traiter des formulaires ou de se connecter à une base de données.",
+      "describeSymfony":"Symfony est un puissant Framework PHP développé par Sensiolabs, une société française. C’est une application open source full-stack MVC (Model-View-Controller) très utile pour le développement des applications Web évolutives et très sécurisées",
+      "describeNode":"Utilisation de la plateforme logicielle libre Node.js pour la partie back-end. Ajouté à cela le framework express pour améliorer la productivité.",
+      "describeMysql":"Utilisation du langage SQL pour l'exploitation des bases de données. Gestion de base de donnée DB-Eaver.",
+      "describeHtml":"Utilisation de la dernière version du langage HTML pour la construction de web app, app, site internet, le tout associé aux langages CSS et Javascript.",
+      "describeCss":"Utilisation de la dernière version du langage CSS pour la construction de web app, app, site internet, le tout associé aux langages HTML et Javascript.",
+      "describeJs":"Utilisation de la dernière version standardisé ES12 avec React, node.js ou seul pour la construction de web app, app, site internet, le tout associé aux langages HTML et CSS."
+  },
+  "button": {
+    "closed":"Fermer",
+    "more":"En savoir plus",
+    "contact":"Contactez moi",
+    "download":"Télécharger mon CV",
+    "screenshot":"Capture d'écran"
+  },
+  "project1": {
+      "title": "Vinoteam",
+      "detail": "Un site de partage de commande sur le vin, afin d'avoir le meillieur vin au meillieur prix grâce à communauté Vinoteam",
+      "date": "2022"
+
+  }
+}
