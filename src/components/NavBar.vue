@@ -29,6 +29,11 @@
               <v-list-item-title>{{ $t("nav.contact") }}</v-list-item-title>
             </v-list-item>
           </router-link>
+          <div class="mb-2 px-2">
+            <v-btn color="primary" @click="downloadCV">{{
+              $t("button.download")
+            }}</v-btn>
+          </div>
           <LanguageSwitcher />
         </v-list>
       </v-menu>
@@ -44,6 +49,9 @@
           <v-list-item-title>{{ $t("nav.contact") }}</v-list-item-title>
         </v-list-item>
       </router-link>
+      <v-btn color="primary" @click="downloadCV">{{
+        $t("button.download")
+      }}</v-btn>
 
       <LanguageSwitcher />
     </template>

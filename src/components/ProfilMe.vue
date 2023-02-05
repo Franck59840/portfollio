@@ -1,10 +1,10 @@
 <template>
   <v-container class="d-flex diagonal-box">
     <v-row class="content d-flex justify-center">
-      <div class="d-flex justify-center align-center col1">
+      <div class="d-flex justify-center align-center mb-4 col1">
         <v-img class="profil" :src="require('../assets/profil.jpg')" contain />
       </div>
-      <div class="d-flex flex-column justify-center col2">
+      <div class="d-flex flex-column justify-center col2 mt-16">
         <div class="display-2 font-weight-medium font-weight name">
           {{ $t("describe.name") }}
         </div>
@@ -23,7 +23,7 @@
           <v-icon class="mr-2">mdi-24px mdi-map-marker-radius</v-icon
           >{{ $t("describe.address") }}
         </div>
-        <div class="white--text pt-2">
+        <div class="white--text pt-2 justify-center">
           <v-btn href="https://github.com/Franck59840" icon target="_blank">
             <v-icon> fa-brands fa-github</v-icon>
           </v-btn>
@@ -49,7 +49,16 @@
   </v-container>
 </template>
 <script>
-export default {};
+export default {
+  data() {
+    return {
+      isMobile: false,
+    };
+  },
+  mounted() {
+    this.isMobile = window.innerWidth <= 300;
+  },
+};
 </script>
 
 <style>
@@ -64,7 +73,7 @@ export default {};
     0 0 0 10px #fff, 0 0 0 20px #e7f9ff, 0 0 0 20px #e7f9ff;
 }
 .diagonal-box {
-  margin-top: 170px;
+  margin-top: 15%;
   background-image: linear-gradient(45deg, #e7f9ff, #e7f9ff);
   transform: skewY(-5deg);
 }
@@ -81,12 +90,9 @@ export default {};
 li {
   text-decoration: none;
 }
-.col1 {
-  margin-right: 50px;
-}
 .col2 {
+  padding-left: 60px;
   margin-bottom: 100px;
-  margin-left: 80px;
 }
 .name {
   color: #677494;
