@@ -1,4 +1,3 @@
-/
 <template>
   <v-container class="containerLabel">
     <d-flex>
@@ -12,13 +11,25 @@
       </v-btn>
     </d-flex>
     <div class="mt-8 d-flex justify-center">
-      <v-btn>Download CV</v-btn>
+      <v-btn color="primary" @click="downloadCV">{{
+        $t("button.download")
+      }}</v-btn>
     </div>
   </v-container>
 </template>
 
 <script>
 export default {
+  methods: {
+    downloadCV() {
+      const link = document.createElement("a");
+      link.href = "https://uptobox.com/kcbaqix52md7";
+      link.setAttribute("download", "CV.pdf");
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+    },
+  },
   data: () => ({
     model: 0,
     labels: [
