@@ -69,7 +69,8 @@ export default {
   methods: {
     downloadCV() {
       const link = document.createElement("a");
-      link.href = "https://uptobox.com/kcbaqix52md7";
+      link.href =
+        "https://drive.google.com/file/d/1xY_j0r_QeXwwWhLGNZfgxIj2KEnQmYBK/view?usp=share_link";
       link.setAttribute("download", "CV.pdf");
       document.body.appendChild(link);
       link.click();
