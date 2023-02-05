@@ -25,6 +25,7 @@
     "css":"CSS 3",
     "js":"Javascript",
     "react":"React",
+    "reactAdmin":"React Admin",
     "vue":"Vue Js",
     "node":"Node JS",
     "express":"Express",
@@ -34,8 +35,11 @@
     "crud":"CRUD",
     "mysql":"MySQL",
     "git":"GIT",
+    "api": "API",
+    "nodeMailer":"Node Mailer",
     "vuetify":"Vuetify",
     "tailwind":"Tailwind",
+    "leaflet":"Leaflet",
     "github":"Github",
     "scrum":"SCRUM",
     "formation":"Formation",
@@ -87,9 +91,46 @@
     "screenshot":"Capture d'écran"
   },
   "project1": {
+    "title": "Goodealmaps",
+    "describe": "Projet de  fin formation de 3 mois , uns site regroupant le partage de bon plan sur la France",
+    "date": "2022",
+    "homepage": "Page d'accueil",
+    "login": "Connexion",
+    "details": "Détails d'un deal",
+    "add": "Ajouter un deal",
+    "list": "Liste des deals par région"
+  },
+  "project2": {
       "title": "Vinoteam",
-      "detail": "Un site de partage de commande sur le vin, afin d'avoir le meillieur vin au meillieur prix grâce à communauté Vinoteam",
-      "date": "2022"
-
+      "describe": "Un site de partage de commande sur le vin, afin d'avoir le meillieur vin au meillieur prix grâce à communauté Vinoteam",
+      "date": "2022",
+      "homepage": "Page d'accueil",
+      "dashboard": "Dashboard",
+      "details": "Détails",
+      "list": "Liste",
+      "map": "Carte",
+      "search": "Recherche"
+  },
+  "project3": {
+      "title": "Everetrofit => Weenav",
+      "describe": "Projet de fin de formation de 5 mois, un site de retrofit qui permet la transformation de véhicule thermique en véhicule électrique",
+      "date": "2021-2022",
+      "homepage": "Page d'accueil",
+      "about": "A propos",
+      "contact": "Contact",
+      "gallery": "Galerie",
+      "team": "Equipe",
+      "details": "Détails",
+      "list": "Liste"
+  },
+  "project4": {
+    "title": "Wild-Heroes",
+    "describe": "Projet 2 de formation , uns site sur les super heros avec l'utilisation d'API",
+    "date": "2021",
+    "homepage": "Page d'accueil",
+    "details": "Liste des cartes de super héros",
+    "article": "Article sur l'actualité des super héros",
+    "rules": "Règles du jeu",
+    "more": "Details des articles sur les super héros"
   }
 }
