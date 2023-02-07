@@ -16,9 +16,9 @@
   },
   "aboutme": {
     "about":"A propos",
-    "about1": "Curieux, perséverant et autonome, ancien médiateur social , j’ai eu la chance d’exercer differents aspect de la mediation . Ce qui m’a permit d’acquerir des différents compétence au fil des années mais surtout des valeurs humaine. Après 15 ans , j'ai décidé de me reconvertir en tant que developpeur web.",
+    "about1": "Curieux, persévérant et autonome, ancien médiateur social, j’ai eu la chance d’exercer différents aspects de la médiation. Ce qui m’a permis d’acquérir des différentes compétences au fil des années, mais surtout des valeurs humaine. Après 15 ans, j'ai décidé de me reconvertir en tant que développeur web.",
     "webDev":"Le développement web",
-    "dev": "Apres plusieurs diplomes dans le social ,lors de mon choix de reconversion , j’ai choisi la Wild Code School de Lille, labellisée Grande Ecole du Numérique, qui utilise une pédagogie inverséee et permet de travailler sur differents projets (dont un vrai client) au sein de différents équipes en méthodologie agile (SCRUM). C’est une formation intensive de 5 mois pour la formation React et 3 mois pour celle de PHP/Symfony où on mise sur l’entraide, la recherche et le développement de l’autonomie de chacun."
+    "dev": "Après plusieurs diplômes dans le social, lors de mon choix de reconversion, j’ai choisi la Wild Code School de Lille, labellisée Grande École du Numérique, qui utilise une pédagogie inversée et permet de travailler sur différents projets (dont un vrai client) au sein de différentes équipes en méthodologie agile (SCRUM). C’est une formation intensive de 5 mois pour la formation React et 3 mois pour celle de PHP/Symfony où on mise sur l’entraide, la recherche et le développement de l’autonomie de chacun."
   },
   "label": {
     "html":"HTML 5",
